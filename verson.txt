@@ -1,0 +1,3 @@
+currentverson=2.0
+
+Features: New Ui, Logos

@@ -1,0 +1,34 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+button { color: blue; }
+
+button { background-color: white; }
+
+button:hover { text-decoration: underline; }
+
+button { border-top-color: white; }
+
+button { border-bottom-color: white; }
+
+button { border-left-color: white; }
+
+button { border-right-color: white; }
+
+button:hover { cursor: grab; }
+
+button:hover { background-color: orange; }
+
+h2:hover { cursor: not-allowed; }
+
+h1:hover { cursor: not-allowed; }
+
+h2 { user-select: none; }
+
+h1 {
+  user-select: none;
+}
